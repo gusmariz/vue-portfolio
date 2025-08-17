@@ -11,7 +11,7 @@ Criar um modelo de portfólio utilizando Vue 3 e TailwindCSS para entender melho
 - **TailwindCSS**
 
 ## 📜 Descrição
-O portfólio segue como um **modelo completo**, contendo 10 seções:
+O portfólio segue como um **modelo completo**, contendo 9 seções:
 - Navbar  
 - Hero Section  
 - Serviços  
