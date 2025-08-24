@@ -32,7 +32,7 @@ Para visualizar o projeto localmente:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/SEU_USUARIO/vue-portfolio.git
+git clone https://github.com/gusmariz/vue-portfolio.git
 
 # Entre na pasta
 cd vue-portfolio
